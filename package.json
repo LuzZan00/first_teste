@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LuzZan00/first_teste/issues"
   },
-  "homepage": "https://github.com/LuzZan00/first_teste#readme"
+  "homepage": "https://github.com/LuzZan00/first_teste#readme",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  }
 }
